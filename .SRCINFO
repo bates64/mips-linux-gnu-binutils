@@ -1,5 +1,5 @@
 pkgbase = mips-linux-gnu-binutils
-	pkgdesc = A set of programs to assemble and manipulate binary and object files for the MIPS target (Big Endian)
+	pkgdesc = A set of programs to assemble and manipulate binary and object files for the MIPS target
 	pkgver = 2.35
 	pkgrel = 1
 	url = http://www.gnu.org/software/binutils/
